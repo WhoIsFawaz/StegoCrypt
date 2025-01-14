@@ -1,3 +1,5 @@
+https://whoisfawaz.hashnode.dev/stegocrypt-hiding-secrets-in-plain-sight
+
 # StegoCrypt: Steganography Made Fun and Secure! 🛡️✨
 
 Welcome to **StegoCrypt** – your all-in-one, nerd-tastic toolkit for hiding secrets in plain sight! Whether you’re smuggling payloads in text, images, audio, or even video, StegoCrypt's got your back. It’s free, open-source, and unapologetically awesome. 😎
